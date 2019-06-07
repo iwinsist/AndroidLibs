@@ -18,8 +18,6 @@ import java.util.zip.ZipFile;
 
 /**
  * Java utils 实现的Zip工具
- * 
- * @author Yangliqiang
  */
 public class ZipUtils {
 	private static final int BUFF_SIZE = 1024 * 1024; // 1M Byte
